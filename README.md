@@ -11,4 +11,5 @@
 * Skills-HTML, CSS, Javascript
 Project 1-My Portfolio Page
 ![alt text](C:\Users\TOLUWAFE\Desktop\FRONT END\Portfolio Website\Images\HeroPicture.PNG.png)
-This project is to showcase my transition into the Tech space and I was able to write my codes from the scratch.
+
+This project is to showcase my transition into the Tech space and I was able to write my codes from the scratch
